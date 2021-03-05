@@ -13,11 +13,11 @@
 <p align="left">
 <a href="https://codepen.io/francosanchezrodriguez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="francosanchezrodriguez" height="30" width="40" /></a>
 <a href="https://twitter.com/franrsr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="franrsr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/franco sánchez rodríguez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="franco sánchez rodríguez" height="30" width="40" /></a>
-<a href="https://codesandbox.com/francorsr98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="francorsr98" height="30" width="40" /></a>
-<a href="https://fb.com/franco sánchez rodríguez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="franco sánchez rodríguez" height="30" width="40" /></a>
-<a href="https://instagram.com/francorsr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="francorsr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/franco sánchez rodríguez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="franco sánchez rodríguez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/franco-s%C3%A1nchez-rodr%C3%ADguez/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="franco sánchez rodríguez" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/francorsr98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="francorsr98" height="30" width="40" /></a>
+<a href="https://www.facebook.com/francorsr98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="franco sánchez rodríguez" height="30" width="40" /></a>
+<a href="https://www.instagram.com/francorsr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="francorsr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC6GsRE2OKssYsLJmf6lrz6Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="franco sánchez rodríguez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

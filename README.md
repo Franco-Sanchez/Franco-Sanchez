@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Franco</h1>
-<h3 align="center">I'm from Peru. I love coding and my family</h3>
+<h1 align="center">Hi! My name is Franco 😊</h1>
+<h3 align="center">I'm from Peru ♥️. I love coding 💻 and my family 👨‍👩‍👦‍👦</h3>
 
 - 💬 Ask me about **ruby on rails, react, vue**
 

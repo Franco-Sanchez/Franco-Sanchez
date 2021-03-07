@@ -1,9 +1,13 @@
 <h1 align="center">Hi! My name is Franco 😊</h1>
 <h3 align="center">I'm from Peru ♥️. I love coding 💻 and my family 👨‍👩‍👦‍👦</h3>
 
-- 💬 Ask me about **ruby on rails, react, vue**
+- 🌱 I’m currently learning everything
+
+- 💬 Ask me about **Ruby on Rails, React, Vue**
 
 - 📫 How to reach me **francorsr98@gmail.com**
+
+- ⚡ Fun fact: ⚽ & 📚
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franco-Sanchez&layout=compact&theme=radical" />
 

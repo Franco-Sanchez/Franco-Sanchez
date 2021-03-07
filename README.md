@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning everything
 
-- 💬 Ask me about **Ruby on Rails, React, Vue**
+- 💬 Ask me about **Ruby on Rails, React, Vue** or whatever you want. We can learn together
 
 - 📫 How to reach me **francorsr98@gmail.com**
 

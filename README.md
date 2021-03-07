@@ -1,7 +1,7 @@
 <h1 align="center">Hi! My name is Franco 😊</h1>
 <h3 align="center">I'm from Peru ♥️. I love coding 💻 and my family 👨‍👩‍👦‍👦</h3>
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning, doing and living
 
 - 💬 Ask me about **Ruby on Rails, React, Vue** or whatever you want. We can learn together
 
